@@ -7,7 +7,7 @@ body{
 .container{
     align-items: center;
     padding: 20px;
-    background-color:rgb(42, 41, 41);
+    background-color:rgb(20, 20, 20);
     width: 20%;
     height: 700px;
     /* margin-top: 10px; */
@@ -20,7 +20,7 @@ body{
 .container2{
     align-items: center;
     padding: 20px;
-    background-color:rgb(42, 41, 41);
+    background-color:rgb(20, 20, 20);
     width: 60%;
     height: fit-content;
     margin-top: 10px;

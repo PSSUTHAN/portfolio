@@ -41,14 +41,12 @@ body{
     color: white;
     font-size: 30px;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
     font-weight: bold;}
 
 .job{
     color: white;
     font-size: 20px;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
 } 
 
 .mcon{
@@ -83,7 +81,6 @@ a{
 .name2{
     color: white;
     font-size: 40px;
-    font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     display: inline;
 }
@@ -91,7 +88,6 @@ a{
 .about{
     color: white;
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
     margin-top: 20px;
 }
 
@@ -119,4 +115,9 @@ a{
 .submit-button:hover{
     background-color: grey;
     color: white;
+}
+
+.label{
+    color: white;
+    font-size: 20px;
 }
